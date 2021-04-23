@@ -45,7 +45,7 @@ docker-compose --version
 Crie um novo diretório e faça um clone deste repositório
 
 ```
-git clone http://10.41.13.15/lcelinski/yaml_django_app.git
+git clone git@github.com:lportinari/django_docker.git
 ```
 
 # Como executar 
